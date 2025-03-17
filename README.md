@@ -38,8 +38,8 @@ on mobile screen:
 
 ### Links
 
-- Solution URL: (https://github.com/cia2003/)
-- Live Site URL: ()
+- Solution URL: (https://github.com/cia2003/dicoding-bookshelf-app)
+- Live Site URL: (https://cia2003.github.io/dicoding-bookshelf-app/)
 
 ## My process
 
